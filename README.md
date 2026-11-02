@@ -24,5 +24,5 @@ sudo python3 log_parser.py
 
 ## ⚙️ Системные требования
 * Операционная система: Ubuntu / Debian / CentOS
-* Интерпретатор: Bash v4+
+* Интерпретатор: Python v3.8+
 * Права доступа: root / sudo-привилегии
